@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Heavy design sources (keep them in cloud drive)
+*.fig
+*.psd
+*.mp4
+*.mov
+
+# Misc
+node_modules/
+.env
